@@ -6,3 +6,5 @@ def Lucky(x):
         return True
     else:
         return False
+
+#나중에라도 꼭 해보자
